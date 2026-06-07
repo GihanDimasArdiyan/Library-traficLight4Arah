@@ -61,4 +61,5 @@ void loop() {
   simpang.jalankanSiklus();
 }
 ```
-*** Dikembangkan oleh Kelompok Gaul
+## DEVELOPER
+**DIKEMBANGKAN OLEH KELOMPOK GAUL**
